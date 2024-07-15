@@ -1,6 +1,6 @@
 # flutter_travel_app_ui
  
- Desenvolvi esta carteira virtual utilizando o Framework flutter. Layoult by Dribble.
+ Desenvolvi este app de viagens utilizando o Framework flutter. Layoult by Dribble.
 
 ### 📋 Pré-requisitos
 
